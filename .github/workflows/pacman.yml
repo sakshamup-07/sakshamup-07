@@ -1,31 +1,28 @@
-name: Generate Pacman Contribution Graph
+name: Generate Pacman contribution graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:       # Manual trigger
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:          # Allow manual runs
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write   # 👈 allow pushing to repo
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman contribution graph
-        uses: yoshi389111/github-profile-pacman@v1.0.0
+      - name: Generate Pacman SVG
+        uses: Platane/snk@master
+        with:
+          github_user_name: sakshamup-07
+          outputs: |
+            dist/pacman.svg
+
+      - name: Push generated SVG
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: pacman.svg
-
-      - name: Commit and push generated graph
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions[bot]
-          author_email: github-actions[bot]@users.noreply.github.com
-          message: "chore: update pacman graph"
-          add: "pacman.svg"
+          publish_dir: dist
+          publish_branch: output
