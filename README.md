@@ -48,7 +48,6 @@
 
 <div align="center">
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamup-07&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamup-07&layout=compact&theme=tokyonight)
 
 </div>
