@@ -4,7 +4,7 @@
   
 ✨ **Developer | Builder | Learner | Dreamer** ✨  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4F5&width=435&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Building+cool+projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Turning+ideas+into+reality;Code.+Create.+Innovate.)
 
 </div>
 
@@ -22,10 +22,10 @@
 
 ## 🚀 About Me  
 
-- 💻 I love exploring **Web Development, Open Source, and Automation**  
-- 🎯 Currently working on sharpening my **JavaScript & Python skills**  
-- 🌱 Always curious about **AI & Backend Development**  
-- 🎨 Fun fact: I enjoy mixing **creativity with code**  
+- 💻 Passionate about **Web Development, Open Source, and Automation**  
+- 🎯 Currently sharpening my **JavaScript & Python skills**  
+- 🌱 Exploring **AI, Backend Development, and System Design**  
+- 🎨 Love mixing **creativity with code** to build unique projects  
 
 ---
 
@@ -33,12 +33,12 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Tool-Git-red?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 </div>
 
@@ -48,8 +48,8 @@
 
 <div align="center">
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamup-07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamup-07&layout=compact&theme=radical)
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamup-07&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamup-07&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)  
+[![Portfolio](https://img.shields.io/badge/🌍-Portfolio-00FFB3?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
 
 </div>
 
