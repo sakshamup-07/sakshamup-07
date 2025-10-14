@@ -29,6 +29,9 @@
 
 ---
 
+
+[![An image of @sakshamup07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshamup07)](https://holopin.io/@sakshamup07)
+
 ## 🛠️ Tech Stack  
 
 <div align="center">
