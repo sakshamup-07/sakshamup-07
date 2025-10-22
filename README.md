@@ -25,7 +25,7 @@
 Here are my **Hacktoberfest 2025 digital badges** 🏆 — earned for contributing to open source and helping the developer community grow!  
 
 <div align="center">
-  <img src="./ea4ca267-eb35-424c-b54d-71789b0a7d96.png" alt="Hacktoberfest 2025 Badges" width="90%">
+  <img src="Screenshot 2025-10-23 035612.png" alt="Hacktoberfest 2025 Badges" width="90%">
 </div>
 
 - 🛠 **Super Contributor** – For consistent, high-quality open-source contributions  
