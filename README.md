@@ -20,6 +20,22 @@
 
 ---
 
+## 🌟 Hacktoberfest 2025 Achievements  
+
+Here are my **Hacktoberfest 2025 digital badges** 🏆 — earned for contributing to open source and helping the developer community grow!  
+
+<div align="center">
+  <img src="./ea4ca267-eb35-424c-b54d-71789b0a7d96.png" alt="Hacktoberfest 2025 Badges" width="90%">
+</div>
+
+- 🛠 **Super Contributor** – For consistent, high-quality open-source contributions  
+- 🌳 **Plant a Tree** – Supporting sustainability with Tree-Nation 🌱  
+- 💫 **Contributor Badges** – Recognizing active participation throughout the event  
+
+[![Check out my Holopin Board](https://holopin.me/sakshamup07)](https://holopin.io/@sakshamup07)
+
+---
+
 ## 🚀 About Me  
 
 - 💻 Passionate about **Web Development, Open Source, and Automation**  
@@ -28,9 +44,6 @@
 - 🎨 Love mixing **creativity with code** to build unique projects  
 
 ---
-
-
-[![An image of @sakshamup07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshamup07)](https://holopin.io/@sakshamup07)
 
 ## 🛠️ Tech Stack  
 
@@ -82,4 +95,4 @@
 
 ---
 
-⭐ From [sakshamup-07](https://github.com/sakshamup-07)  
+⭐ From [sakshamup-07](https://github.com/sakshamup-07)
