@@ -74,11 +74,8 @@ Here are my **Hacktoberfest 2025 digital badges** 🏆 — earned for contributi
 
 ---
 
-## 📊 GitHub Stats  
-
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamup-07&layout=compact&theme=tokyonight)
 
 </div>
 
