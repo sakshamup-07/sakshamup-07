@@ -40,7 +40,7 @@ Here are my **Hacktoberfest 2025 digital badges** 🏆 — earned for contributi
 ## 🚀 About Me  
 
 - 💻 Passionate about **Web Development, Open Source, and Automation**  
-- 🎯 Currently sharpening my **JavaScript & Python skills**  
+- 🎯 Currently sharpening my **Java & C++ skills**  
 - 🌱 Exploring **AI, Backend Development, and System Design**  
 - 🎨 Love mixing **creativity with code** to build unique projects  
 
